@@ -11,3 +11,4 @@ Follow the following steps
 
 
  ## SCREENSHOTS
+![Screenshot](https://github.com/princebhagat08/chatapp/assets/143127857/8c651ad7-9f68-4289-b586-2da009054ad7)
